@@ -24,27 +24,27 @@ StenoGraphy tool will take care remaining things of compile and decomplie
 # Binary Samples
 
 <br>
-<img src="./assets/IN 1.png">
+<img src="./assets/1.png">
 <br>
 
 <br>
-<img src="./assets/IN 2.png">
+<img src="./assets/2.png">
 <br>
 
 <br>
-<img src="./assets/IN 3.png">
+<img src="./assets/3.png">
 <br>
 
 <br>
-<img src="./assets/IN 4.png">
+<img src="./assets/4.png">
 <br>
 
 <br>
-<img src="./assets/IN 5.png">
+<img src="./assets/5.png">
 <br>
 
 <br>
-<img src="./assets/IN 6.png">
+<img src="./assets/6.png">
 <br>
 
 # Note
